@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\bin\Debug\net6.0\TestePOO3.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\bin\Debug\net6.0\TestePOO3.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\bin\Debug\net6.0\TestePOO3.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\bin\Debug\net6.0\TestePOO3.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\bin\Debug\net6.0\TestePOO3.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\TestePOO3.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\TestePOO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\TestePOO3.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\TestePOO3.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\TestePOO3.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\TestePOO3.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\refint\TestePOO3.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\TestePOO3.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\TestePOO3.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestePOO3\TestePOO3\obj\Debug\net6.0\ref\TestePOO3.dll
