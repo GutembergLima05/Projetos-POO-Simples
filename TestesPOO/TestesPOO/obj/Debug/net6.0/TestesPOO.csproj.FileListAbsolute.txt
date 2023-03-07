@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\bin\Debug\net6.0\TestesPOO.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\bin\Debug\net6.0\TestesPOO.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\bin\Debug\net6.0\TestesPOO.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\bin\Debug\net6.0\TestesPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\bin\Debug\net6.0\TestesPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\TestesPOO.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\TestesPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\TestesPOO.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\TestesPOO.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\TestesPOO.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\TestesPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\refint\TestesPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\TestesPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\TestesPOO.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestesPOO\TestesPOO\obj\Debug\net6.0\ref\TestesPOO.dll
