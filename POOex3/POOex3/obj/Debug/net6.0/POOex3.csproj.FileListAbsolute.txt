@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\bin\Debug\net6.0\POOex3.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\bin\Debug\net6.0\POOex3.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\bin\Debug\net6.0\POOex3.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\bin\Debug\net6.0\POOex3.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\bin\Debug\net6.0\POOex3.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\POOex3.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\POOex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\POOex3.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\POOex3.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\POOex3.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\POOex3.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\refint\POOex3.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\POOex3.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\POOex3.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\POOex3\POOex3\obj\Debug\net6.0\ref\POOex3.dll
