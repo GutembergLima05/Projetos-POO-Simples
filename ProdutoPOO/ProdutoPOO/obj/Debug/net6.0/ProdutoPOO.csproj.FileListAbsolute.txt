@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\bin\Debug\net6.0\ProdutoPOO.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\bin\Debug\net6.0\ProdutoPOO.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\bin\Debug\net6.0\ProdutoPOO.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\bin\Debug\net6.0\ProdutoPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\bin\Debug\net6.0\ProdutoPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\ProdutoPOO.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\ProdutoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\ProdutoPOO.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\ProdutoPOO.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\ProdutoPOO.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\ProdutoPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\refint\ProdutoPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\ProdutoPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\ProdutoPOO.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ProdutoPOO\ProdutoPOO\obj\Debug\net6.0\ref\ProdutoPOO.dll
