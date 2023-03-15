@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\bin\Debug\net6.0\ContaBancariaPOO.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\bin\Debug\net6.0\ContaBancariaPOO.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\bin\Debug\net6.0\ContaBancariaPOO.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\bin\Debug\net6.0\ContaBancariaPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\bin\Debug\net6.0\ContaBancariaPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\ContaBancariaPOO.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\ContaBancariaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\ContaBancariaPOO.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\ContaBancariaPOO.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\ContaBancariaPOO.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\ContaBancariaPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\refint\ContaBancariaPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\ContaBancariaPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\ContaBancariaPOO.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ContaBancariaPOO\ContaBancariaPOO\obj\Debug\net6.0\ref\ContaBancariaPOO.dll
