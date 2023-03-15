@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\bin\Debug\net6.0\TestPOO.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\bin\Debug\net6.0\TestPOO.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\bin\Debug\net6.0\TestPOO.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\bin\Debug\net6.0\TestPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\bin\Debug\net6.0\TestPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\TestPOO.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\TestPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\TestPOO.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\TestPOO.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\TestPOO.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\TestPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\refint\TestPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\TestPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\TestPOO.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\TestPOO\TestPOO\obj\Debug\net6.0\ref\TestPOO.dll
