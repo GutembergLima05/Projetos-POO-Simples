@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\bin\Debug\net6.0\ListPOO.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\bin\Debug\net6.0\ListPOO.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\bin\Debug\net6.0\ListPOO.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\bin\Debug\net6.0\ListPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\bin\Debug\net6.0\ListPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\ListPOO.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\ListPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\ListPOO.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\ListPOO.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\ListPOO.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\ListPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\refint\ListPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\ListPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\ListPOO.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ListPOO\ListPOO\obj\Debug\net6.0\ref\ListPOO.dll
