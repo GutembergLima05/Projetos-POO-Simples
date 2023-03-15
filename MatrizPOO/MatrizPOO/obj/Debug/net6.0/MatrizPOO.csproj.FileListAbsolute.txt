@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\bin\Debug\net6.0\MatrizPOO.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\bin\Debug\net6.0\MatrizPOO.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\bin\Debug\net6.0\MatrizPOO.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\bin\Debug\net6.0\MatrizPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\bin\Debug\net6.0\MatrizPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\MatrizPOO.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\MatrizPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\MatrizPOO.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\MatrizPOO.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\MatrizPOO.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\MatrizPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\refint\MatrizPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\MatrizPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\MatrizPOO.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\MatrizPOO\MatrizPOO\obj\Debug\net6.0\ref\MatrizPOO.dll
