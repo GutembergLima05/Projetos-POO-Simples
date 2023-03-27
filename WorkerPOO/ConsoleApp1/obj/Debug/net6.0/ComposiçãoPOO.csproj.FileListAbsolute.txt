@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ComposiçãoPOO.exe
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ComposiçãoPOO.deps.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ComposiçãoPOO.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ComposiçãoPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ComposiçãoPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ComposiçãoPOO.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ComposiçãoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ComposiçãoPOO.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ComposiçãoPOO.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ComposiçãoPOO.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ComposiçãoPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ComposiçãoPOO.dll
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ComposiçãoPOO.pdb
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ComposiçãoPOO.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projetos C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ComposiçãoPOO.dll
