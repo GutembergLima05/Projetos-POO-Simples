@@ -26,7 +26,7 @@ namespace Accounts.Entities
         public override void Withdraw(double amount)
         {
             base.Withdraw(amount);
-            Balance -= -2.0;
+            Balance -= 2.0;
         }
     }
 }

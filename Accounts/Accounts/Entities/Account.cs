@@ -1,7 +1,7 @@
 ﻿
 namespace Accounts.Entities
 {
-    internal class Account
+    abstract class Account
     {
         public int Number { get; private set; }
 
