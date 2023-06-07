@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\TaxPayers.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\TaxPayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\TaxPayers.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\TaxPayers.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\TaxPayers.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\bin\Debug\net6.0\TaxPayers.exe
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\bin\Debug\net6.0\TaxPayers.deps.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\bin\Debug\net6.0\TaxPayers.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\bin\Debug\net6.0\TaxPayers.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\bin\Debug\net6.0\TaxPayers.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\TaxPayers.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\refint\TaxPayers.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\TaxPayers.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\TaxPayers.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\TaxPayers\TaxPayers\obj\Debug\net6.0\ref\TaxPayers.dll
