@@ -17,26 +17,13 @@ namespace TaxPayers.Entities
             double sum = 0.0;
             if (Renda < 20000.00)
             {
-                Renda = Renda * 0.15;
+                return Renda * 0.15 - Health * 0.5;
             } else
             {
-                Renda = Renda * 0.25;
+                return Renda * 0.25 - Health * 0.5;
             }
-            if (Health > 0.0)
-            {
-                Health = Health * 0.5;
-                sum = Renda - Health;
-            } else
-            {
-                sum = Renda;
-            }
-            
-            Total = sum;
 
-            return sum;
         }
-
-      
 
     }
 }

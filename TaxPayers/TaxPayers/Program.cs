@@ -35,20 +35,18 @@ namespace Course
                     list.Add(new PJ(name, renda, employee));
                 }
             }
-            
+
+            double sum = 0.0;
             Console.WriteLine();
             Console.WriteLine("TAXES PAID:");
             foreach (Person pf in list)
             {
-                Console.WriteLine(pf.Name + ": $ " + pf.Tax().ToString("F2", CultureInfo.InvariantCulture));            
-
+                double tax = pf.Tax();
+                Console.WriteLine(pf.Name + ": $ " + tax.ToString("F2", CultureInfo.InvariantCulture));            
+                sum += tax;
             }
 
             Console.WriteLine();
-            double sum = 0.0;
-            foreach (Person pf in list) {
-                sum += pf.Total;
-            }
             Console.Write("TOTAL TAXES: $ " + sum.ToString("F2", CultureInfo.InvariantCulture));
         }
     }

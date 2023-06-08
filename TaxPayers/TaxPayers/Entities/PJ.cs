@@ -15,14 +15,11 @@ namespace TaxPayers.Entities
             double sum = 0.0;
             if (Employee > 10)
             {
-                sum = Renda * 0.14;
+                return Renda * 0.14;
             } else
             {
-                sum = Renda * 0.16;
+                return Renda * 0.16;
             }
-
-            Total = sum;
-            return sum;
         }
        
     }

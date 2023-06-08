@@ -4,8 +4,6 @@
     {
         public string Name { get; set; }
         public double Renda { get; set; }
-        public double Total { get; set; }
-
         public Person(string name, double renda)
         {
             Name = name;
