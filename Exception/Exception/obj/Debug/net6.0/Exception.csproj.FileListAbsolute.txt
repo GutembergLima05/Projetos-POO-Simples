@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\bin\Debug\net6.0\Exception.exe
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\bin\Debug\net6.0\Exception.deps.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\bin\Debug\net6.0\Exception.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\bin\Debug\net6.0\Exception.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\bin\Debug\net6.0\Exception.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\Exception.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\Exception.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\Exception.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\Exception.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\refint\Exception.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\Exception.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\Exception.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Exception\Exception\obj\Debug\net6.0\ref\Exception.dll
