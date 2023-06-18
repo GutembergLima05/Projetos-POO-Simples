@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WINDOWS 10\\Desktop\\ProjetosPOO\\Projetos-POO-Simples\\Exception\\Exception\\Exception.csproj",
-      "projectName": "Exception",
-      "projectPath": "C:\\Users\\WINDOWS 10\\Desktop\\ProjetosPOO\\Projetos-POO-Simples\\Exception\\Exception\\Exception.csproj",
+      "projectUniqueName": "C:\\Users\\WINDOWS 10\\Desktop\\ProjetosPOO\\Projetos-POO-Simples\\files1\\files1\\files1.csproj",
+      "projectName": "files1",
+      "projectPath": "C:\\Users\\WINDOWS 10\\Desktop\\ProjetosPOO\\Projetos-POO-Simples\\files1\\files1\\files1.csproj",
       "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WINDOWS 10\\Desktop\\ProjetosPOO\\Projetos-POO-Simples\\Exception\\Exception\\obj\\",
+      "outputPath": "C:\\Users\\WINDOWS 10\\Desktop\\ProjetosPOO\\Projetos-POO-Simples\\files1\\files1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
