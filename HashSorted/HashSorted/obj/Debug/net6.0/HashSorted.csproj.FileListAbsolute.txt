@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\bin\Debug\net6.0\HashSorted.exe
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\bin\Debug\net6.0\HashSorted.deps.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\bin\Debug\net6.0\HashSorted.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\bin\Debug\net6.0\HashSorted.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\bin\Debug\net6.0\HashSorted.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\HashSorted.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\HashSorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\HashSorted.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\HashSorted.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\HashSorted.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\HashSorted.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\refint\HashSorted.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\HashSorted.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\HashSorted.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\HashSorted\HashSorted\obj\Debug\net6.0\ref\HashSorted.dll

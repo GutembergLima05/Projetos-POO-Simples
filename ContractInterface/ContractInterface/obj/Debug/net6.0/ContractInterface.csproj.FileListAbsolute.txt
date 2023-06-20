@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\bin\Debug\net6.0\ContractInterface.exe
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\bin\Debug\net6.0\ContractInterface.deps.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\bin\Debug\net6.0\ContractInterface.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\bin\Debug\net6.0\ContractInterface.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\bin\Debug\net6.0\ContractInterface.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\ContractInterface.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\ContractInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\ContractInterface.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\ContractInterface.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\ContractInterface.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\ContractInterface.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\refint\ContractInterface.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\ContractInterface.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\ContractInterface.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ContractInterface\ContractInterface\obj\Debug\net6.0\ref\ContractInterface.dll
