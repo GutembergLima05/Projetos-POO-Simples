@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.exe
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.deps.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\bin\Debug\net6.0\LinqSQL.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\refint\LinqSQL.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\LinqSQL.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\LinqSQL\LinqSQL\obj\Debug\net6.0\ref\LinqSQL.dll

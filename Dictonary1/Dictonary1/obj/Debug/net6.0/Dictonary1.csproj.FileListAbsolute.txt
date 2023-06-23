@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\bin\Debug\net6.0\Dictonary1.exe
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\bin\Debug\net6.0\Dictonary1.deps.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\bin\Debug\net6.0\Dictonary1.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\bin\Debug\net6.0\Dictonary1.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\bin\Debug\net6.0\Dictonary1.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\Dictonary1.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\Dictonary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\Dictonary1.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\Dictonary1.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\Dictonary1.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\Dictonary1.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\refint\Dictonary1.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\Dictonary1.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\Dictonary1.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Dictonary1\Dictonary1\obj\Debug\net6.0\ref\Dictonary1.dll

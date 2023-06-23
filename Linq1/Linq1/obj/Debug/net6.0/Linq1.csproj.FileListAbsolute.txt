@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\bin\Debug\net6.0\Linq1.exe
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\bin\Debug\net6.0\Linq1.deps.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\bin\Debug\net6.0\Linq1.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\bin\Debug\net6.0\Linq1.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\bin\Debug\net6.0\Linq1.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\Linq1.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\Linq1.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\Linq1.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\Linq1.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\refint\Linq1.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\Linq1.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\Linq1.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\Linq1\Linq1\obj\Debug\net6.0\ref\Linq1.dll

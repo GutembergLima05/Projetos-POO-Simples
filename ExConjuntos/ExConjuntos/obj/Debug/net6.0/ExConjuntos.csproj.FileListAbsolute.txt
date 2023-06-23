@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\bin\Debug\net6.0\ExConjuntos.exe
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\bin\Debug\net6.0\ExConjuntos.deps.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\bin\Debug\net6.0\ExConjuntos.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\bin\Debug\net6.0\ExConjuntos.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\bin\Debug\net6.0\ExConjuntos.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\ExConjuntos.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\ExConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\ExConjuntos.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\ExConjuntos.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\ExConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\ExConjuntos.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\refint\ExConjuntos.dll
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\ExConjuntos.pdb
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\ExConjuntos.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\ProjetosPOO\Projetos-POO-Simples\ExConjuntos\ExConjuntos\obj\Debug\net6.0\ref\ExConjuntos.dll
